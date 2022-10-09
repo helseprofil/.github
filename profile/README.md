@@ -8,5 +8,5 @@ Codes and packages specifically relevant in the production of health profiles:
 4. **KHvalitetskontroll** [https://github.com/helseprofil/KHvalitetskontroll](https://github.com/helseprofil/KHvalitetskontroll). 
 5. Other info such as presentation, videos etc can be found [here](https://helseprofil.github.io/orgdata/#resources) under the heading **Resources** or [here](https://bit.ly/ybk-git)
 
-# Manual
+# Håndbok
 General guide to install and use of different functions and packages is available here [https://helseprofil.github.io/](https://helseprofil.github.io/)
