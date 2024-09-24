@@ -3,7 +3,6 @@
 Codes and packages specifically relevant in the production of health profiles:
 
 1. [**produksjon**](https://github.com/helseprofil/produksjon). Main user project for data handling and quality control.
-2. [**KHfunctions**](https://github.com/helseprofil/khfunctions). Main code for data production. 
 3. [**norgeo**](https://github.com/helseprofil/norgeo). Fetches geographical codes from Statistics Norway
 
 # User manual and tips
